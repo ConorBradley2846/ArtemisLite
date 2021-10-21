@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\44751\Desktop\git_repo\csc7053-2021-g3\ArtemisLite\.metadata\.plugins\org.eclipse.jdt.core
